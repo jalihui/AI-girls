@@ -1,6 +1,3 @@
-以下是根据您的代码和上下文编写的 `README.md` 文件，包含项目简介、环境配置、本地运行、Docker 部署及 API 使用说明。
-
-```markdown
 # AI 女友聊天机器人 (GF Chat)
 
 基于 FastAPI + Moonshot AI (Kimi) + Redis 构建的角色扮演对话服务。模拟具有温柔、幽默、独立等性格特征的虚拟女友，能够根据历史聊天记录生成个性化回复。
